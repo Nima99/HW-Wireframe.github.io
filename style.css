@@ -1,7 +1,63 @@
-.main-section{
-font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-color: #777;
-background: #777;
-width: 960px;
-font-size: 18px;
+.box-set{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
 }
+.Box_1{
+background: #ebebeb;
+margin: 30px;
+padding: 30px;
+text-align: center;
+}
+.Box_2{
+    background: #ebebeb;
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+    }
+    .Box_3{
+        background: #ebebeb;
+        margin: 30px;
+        padding: 30px;
+        text-align: center;
+        width: 495px;
+        }
+        .Box_4{
+            background: #ebebeb;
+            margin: 30px;
+            padding: 30px;
+            text-align: center;
+            width: 495px;
+            }
+            .Box_5{
+                color: #ebebeb;
+                background: #777;
+                margin: 30px;
+                padding: 30px;
+                text-align: center;
+                width: 495px;
+                }
+                .Box_6{
+                    background: #ebebeb;
+                    color: #777;
+                    margin: 30px;
+                    padding: 30px;
+                    text-align: center;
+                    width: 495px;
+                    }
+                    .Box_7{
+                        background: #ebebeb;
+                        color: #777;
+                        margin: 30px;
+                        padding: 30px;
+                        text-align: center;
+                        width: 495px;
+                        }
+                        .Box_8{
+                            background: #ebebeb;
+                            margin: 30px;
+                            padding: 30px;
+                            text-align: center;
+                            }
