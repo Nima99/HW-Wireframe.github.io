@@ -20,44 +20,46 @@ text-align: center;
     .Box_3{
         background: #ebebeb;
         margin: 30px;
-        padding: 30px;
+        padding: 30px 30px 300px 30px;
         text-align: center;
         width: 495px;
         }
         .Box_4{
             background: #ebebeb;
-            margin: 30px;
-            padding: 30px;
+            margin: -382px 30px 30px 600px;
+            padding: 30px 30px 300px 0px;
             text-align: center;
-            width: 495px;
+            width: 300px;
             }
+            /* over here was the most diffacult finding how to get box 5 in place so used negative coordinates to move other margins */
             .Box_5{
                 color: #ebebeb;
                 background: #777;
-                margin: 30px;
-                padding: 30px;
+                margin: -300px 30px 0px 40px;
+                padding: 15px 20px 300px 20px;
                 text-align: center;
                 width: 495px;
                 }
                 .Box_6{
                     background: #ebebeb;
                     color: #777;
-                    margin: 30px;
-                    padding: 30px;
+                    margin: -300px 30px 30px 60px;
+                    padding: 12px 0px 10px 0px;
                     text-align: center;
                     width: 495px;
                     }
                     .Box_7{
                         background: #ebebeb;
                         color: #777;
-                        margin: 30px;
-                        padding: 30px;
+                        margin: 30px 30px 30px 60px;
+                        padding: 12px 0px 10px 0px;
                         text-align: center;
                         width: 495px;
                         }
                         .Box_8{
                             background: #ebebeb;
-                            margin: 30px;
+                            margin: 120px 30px 30px 30px;
                             padding: 30px;
                             text-align: center;
                             }
+                            /* cannot figure out how to fix margin for footer to make everything else look pretty */
